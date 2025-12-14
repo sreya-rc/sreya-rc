@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I’m Sreya 👋
 
-<!--
-**sreya-rc/sreya-rc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering @ University of Waterloo (BASc, 2027)  
+⚙️ Interested in ML systems, inference optimization, and hardware–software co-design  
 
-Here are some ideas to get you started:
+**Experience**
+- ML Acceleration Intern @ AMD (CPU/GPU kernels, ONNX/DirectML benchmark tooling)
+- Firmware & embedded systems (STM32, PIC, FreeRTOS)
+- FPGA-based ML accelerator (PYNQ-Z1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently**
+<!-- - Contributing to open-source ML inference runtimes (ONNX Runtime) -->
+- Working primarily in C++, CUDA, Python, and low-level systems code
+
+📫 [LinkedIn](https://www.linkedin.com/in/sreya-roychowdhury/)
+
